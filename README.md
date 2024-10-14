@@ -6,7 +6,7 @@ Ce dépôt centralise tous mes projets GitHub. Vous trouverez ci-dessous une br�
 
 ### 1. project-manager
 
-**Description :** Projet central pour organiser et suivre tous mes autres projets..
+**Description :** Projet central pour organiser et suivre tous mes autres projets.
 [Lien vers le dépôt](https://github.com/ugadavid/project-manager)
 **En local :** \Cours\project-manager
 
