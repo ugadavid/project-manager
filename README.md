@@ -32,6 +32,17 @@ Ce dépôt centralise tous mes projets GitHub. Vous trouverez ci-dessous une br�
 
 **En local :** \Cours\M1\S1\04-CSP\SCORM\hello_world_scorm
 
+## Liste des dossiers à faire cette année :
+
+- Dossier réflexif Interlangue => Création DB
+- Dossier Telecollaboration => Jeu briseglace
+- Conception de modules TICE
+- Dossier réflexif outil auteur => Evaluation par les paires
+- Projet info web\*
+- Projet PHP/Javacript
+- Projet e-learning
+- Ingénieurie pédagogique numérique sur commande
+
 ## Comment contribuer
 
 Si vous souhaitez contribuer à l’un de ces projets, veuillez vous référer aux instructions spécifiques dans chaque dépôt.
