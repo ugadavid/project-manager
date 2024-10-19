@@ -67,6 +67,27 @@ Ce dépôt centralise tous mes projets GitHub. Vous trouverez ci-dessous une br�
 
 **En local :** \Cours\M1\S1\05-CMEL\projet
 
+### 10. CRTT (Conception et réalisation de tâches avec les TICE)
+
+**Description :** Préparer les jobs, je ne sais quoi encore :D
+[Lien vers le dépôt](https://github.com/ugadavid/ugacrtt)
+
+**En local :** \Cours\M1\S1\08-CRTT\projet
+
+### 11. TEL (Télécollaboration en langues)
+
+**Description :** Préparer les jobs, je ne sais quoi encore :D
+[Lien vers le dépôt](https://github.com/ugadavid/ugatel)
+
+**En local :** \Cours\M1\S1\09-TEL\projet
+
+### 12. ANG (Anglais B2.1)
+
+**Description :** Tous les liens
+[Lien vers le dépôt](https://github.com/ugadavid/ugaang)
+
+**En local :** \Cours\M1\S1\10-ANG\projet
+
 ## Liste des dossiers à faire cette année :
 
 - Dossier réflexif Interlangue => Création DB
