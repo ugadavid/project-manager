@@ -11,14 +11,14 @@ Ce dépôt centralise tous mes projets GitHub. Vous trouverez ci-dessous une br�
 
 **En local :** \Cours\project-manager
 
-### 2. ugaiwm
+### 2. ugaiwm (Informatique, web et multimédia)
 
 **Description :** Projet web du cours de Sylvain hatier.
 [Lien vers le dépôt](https://github.com/ugadavid/ugaiwm)
 
 **En local :** \Cours\M1\S1\06-07-IWM\projet
 
-### 3. e-learning
+### 3. e-learning (Techniques et méthodes de conception de projet)
 
 **Description :** Projet central de réalisation d'un projet e-learning.
 [Lien vers le dépôt](https://github.com/ugadavid/e-learning)
@@ -38,6 +38,27 @@ Ce dépôt centralise tous mes projets GitHub. Vous trouverez ci-dessous une br�
 [Lien vers le dépôt](https://github.com/ugadavid/ugaextro)
 
 **En local :** \Cours\M1\S1\01-EXTRO\projet
+
+### 6. BPEL (Bases de la programmation e-learning)
+
+**Description :** Préparer les slides de l'exposé.
+[Lien vers le dépôt](https://github.com/ugadavid/ugabpel)
+
+**En local :** \Cours\M1\S1\02-BPEL\projet
+
+### 7. DILR (Didactique de l'intercompréhension en langues romanes)
+
+**Description :** Préparer les jobs, je ne sais quoi encore :D
+[Lien vers le dépôt](https://github.com/ugadavid/ugadilr)
+
+**En local :** \Cours\M1\S1\03-DILR\projet
+
+### 8. CSP (Conception d'une séance pédagogique avec recours à un outil-auteur)
+
+**Description :** Lister tout les outils et les réalisations
+[Lien vers le dépôt](https://github.com/ugadavid/ugacsp)
+
+**En local :** \Cours\M1\S1\04-CSP\projet
 
 ## Liste des dossiers à faire cette année :
 
