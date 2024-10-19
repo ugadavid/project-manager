@@ -32,6 +32,13 @@ Ce dépôt centralise tous mes projets GitHub. Vous trouverez ci-dessous une br�
 
 **En local :** \Cours\M1\S1\04-CSP\SCORM\hello_world_scorm
 
+### 5. EXTRO (Exposer un travail de recherche à l'oral)
+
+**Description :** Préparer les slides de l'exposé.
+[Lien vers le dépôt](https://github.com/ugadavid/ugaextro)
+
+**En local :** \Cours\M1\S1\01-EXTRO\projet
+
 ## Liste des dossiers à faire cette année :
 
 - Dossier réflexif Interlangue => Création DB
