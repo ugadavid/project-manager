@@ -60,6 +60,13 @@ Ce dépôt centralise tous mes projets GitHub. Vous trouverez ci-dessous une br�
 
 **En local :** \Cours\M1\S1\04-CSP\projet
 
+### 9. CMEL (Courants méthodologiques pour l'enseignement des langues)
+
+**Description :** Préparer les jobs, je ne sais quoi encore :D
+[Lien vers le dépôt](https://github.com/ugadavid/ugacmel)
+
+**En local :** \Cours\M1\S1\05-CMEL\projet
+
 ## Liste des dossiers à faire cette année :
 
 - Dossier réflexif Interlangue => Création DB
