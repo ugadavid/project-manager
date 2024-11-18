@@ -1,9 +1,9 @@
 # Homework due dates
 
-- **15/11	TEL**
-Finalise your draft version of an icebreaker task, 
-Share this idea with the other groups on this Padlet : 
-https://padlet.com/elke_nissen/icebreak_init
+- ~**~~15/11	TEL~~**
+~~Finalise your draft version of an icebreaker task, ~~
+~~Share this idea with the other groups on this Padlet : ~~
+~~https://padlet.com/elke_nissen/icebreak_init~~
 
 - **18/11	CMEL**
 conception d'une séance de cours de 2h
