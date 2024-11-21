@@ -8,22 +8,17 @@
 ~~??? mais je crois être à jour :D~~
 
 
-## 19/11 -> 30/11 CSP
-terminer les modules et leur intégration sur Moodle
+## ~~20/11 ANG~~
+~~exposé oral~~
 
-## 20/11 ANG
-exposé oral + controle de compréhension écrite
-
-## 20/11 CMEL
-conception d'une séance de cours de 2h
+## ~~20/11 CMEL~~
+~~conception d'une séance de cours de 2h~~
 
 
 ## 23/11 EXTRO
 Diapos, envoyer par mail !!
 
 
-## 24/11	CSP
-dossiers réflexifs
 
 ## 25/11 EXTRO
 Présentation orale
@@ -39,12 +34,17 @@ avoir fini le journal
 
 
 
+## 19/11 -> 30/11 CSP
+terminer les modules et leur intégration sur Moodle
+
 ## 30/11 Site Web 
 HTML/CSS
 
 
 ## 7/12	CSP
-évaluation individuelle
+- travail réflexif
+- évaluation pairs : Luca / Alyona - Play your English self
+
 
 ## 13/12 DILR
 Dossier réflexif
