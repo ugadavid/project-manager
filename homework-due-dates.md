@@ -41,9 +41,19 @@ terminer les modules et leur intégration sur Moodle
 HTML/CSS
 
 
+## 5/12 CRTT
+rendre accessible l'essentiel du parcours-tâche
+
+
 ## 7/12	CSP
 - travail réflexif
 - évaluation pairs : Luca / Alyona - Play your English self
+
+## 10/12 CRTT
+teste le groupe 2 "Voyage gourmand en France" (Anderson, Rizal & Neslihan)
+
+## 12/12 CRTT
+Finir
 
 
 ## 13/12 DILR
