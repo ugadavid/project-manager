@@ -15,22 +15,22 @@
 ~~conception d'une séance de cours de 2h~~
 
 
-## 23/11 EXTRO
-Diapos, envoyer par mail !!
+## ~~23/11 EXTRO~~
+~~Diapos, envoyer par mail !!~~
 
 
 
-## 25/11 EXTRO
-Présentation orale
+## ~~25/11 EXTRO~~
+~~Présentation orale~~
 
 
 
-## 25/11 CRTT
-Scénarisation du parcours
+## ~~25/11 CRTT~~
+~~Scénarisation du parcours~~
 
 
-## 27/11 DILR
-avoir fini le journal
+## ~~27/11 DILR~~
+~~avoir fini le journal~~
 
 
 
