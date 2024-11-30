@@ -34,11 +34,11 @@
 
 
 
-## 19/11 -> 30/11 CSP
-terminer les modules et leur intégration sur Moodle
+## ~~19/11 -> 30/11 CSP~~
+~~terminer les modules et leur intégration sur Moodle
 
-## 30/11 Site Web 
-HTML/CSS
+## ~~30/11 Site Web~~
+~~HTML/CSS~~
 
 
 ## 5/12 CRTT
