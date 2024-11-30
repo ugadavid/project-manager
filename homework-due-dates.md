@@ -40,6 +40,9 @@
 ## ~~30/11 Site Web~~
 ~~HTML/CSS~~
 
+## 3/12 DILR
+Présentation
+
 
 ## 5/12 CRTT
 rendre accessible l'essentiel du parcours-tâche
