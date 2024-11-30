@@ -41,7 +41,7 @@
 ~~HTML/CSS~~
 
 ## 3/12 DILR
-Présentation
+[Présentation](https://www.canva.com/design/DAGXkos7FJ8/oESZbRezrq-qB4jAWlChbg/edit)
 
 
 ## 5/12 CRTT
