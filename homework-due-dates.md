@@ -43,6 +43,8 @@
 ## ~~3/12 DILR~~
 [~~Présentation~~](https://www.canva.com/design/DAGXkos7FJ8/oESZbRezrq-qB4jAWlChbg/edit)
 
+## ?? DILR
+Analyses 6 !! ?wtf
 
 ## 5/12 CRTT
 rendre accessible l'essentiel du parcours-tâche
