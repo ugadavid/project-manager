@@ -40,8 +40,8 @@
 ## ~~30/11 Site Web~~
 ~~HTML/CSS~~
 
-## 3/12 DILR
-[Présentation](https://www.canva.com/design/DAGXkos7FJ8/oESZbRezrq-qB4jAWlChbg/edit)
+## ~~3/12 DILR~~
+[~~Présentation~~](https://www.canva.com/design/DAGXkos7FJ8/oESZbRezrq-qB4jAWlChbg/edit)
 
 
 ## 5/12 CRTT
@@ -65,4 +65,5 @@ Dossier réflexif
 ## 18/12 à 12h TEL
 Dossier réflexif
 
-
+## 05-06/01 CMEL
+Rendre travail
