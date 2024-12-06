@@ -43,8 +43,6 @@
 ## ~~3/12 DILR~~
 [~~Présentation~~](https://www.canva.com/design/DAGXkos7FJ8/oESZbRezrq-qB4jAWlChbg/edit)
 
-## ?? DILR
-Analyses 6 !! ?wtf
 
 ## 5/12 CRTT
 rendre accessible l'essentiel du parcours-tâche
@@ -54,8 +52,14 @@ rendre accessible l'essentiel du parcours-tâche
 - travail réflexif
 - évaluation pairs : Luca / Alyona - Play your English self
 
+## ?? DILR
+Analyses 6 !! ?wtf
+
 ## 10/12 CRTT
 teste le groupe 2 "Voyage gourmand en France" (Anderson, Rizal & Neslihan)
+
+## 10/12
+Faire les 2 sondages !!
 
 ## 12/12 CRTT
 Finir
@@ -69,3 +73,10 @@ Dossier réflexif
 
 ## 05-06/01 CMEL
 Rendre travail
+
+## 10/01 BACK
+Finir site Virginie
+
+## 10/01 CMEL
+Préparation séance de 3h
+
