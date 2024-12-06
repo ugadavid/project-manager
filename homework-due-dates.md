@@ -35,7 +35,8 @@
 
 
 ## ~~19/11 -> 30/11 CSP~~
-~~terminer les modules et leur intégration sur Moodle
+~~terminer les modules et leur intégration sur Moodle~~
+~~travail analytique~~
 
 ## ~~30/11 Site Web~~
 ~~HTML/CSS~~
@@ -44,12 +45,11 @@
 [~~Présentation~~](https://www.canva.com/design/DAGXkos7FJ8/oESZbRezrq-qB4jAWlChbg/edit)
 
 
-## 5/12 CRTT
-rendre accessible l'essentiel du parcours-tâche
+## ~~5/12 CRTT~~
+~~rendre accessible l'essentiel du parcours-tâche~~
 
 
 ## 7/12	CSP
-- travail réflexif
 - évaluation pairs : Luca / Alyona - Play your English self
 
 ## ?? DILR
