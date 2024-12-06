@@ -50,7 +50,7 @@
 
 
 ## 7/12	CSP
-- évaluation pairs : Luca / Alyona - Play your English self
+évaluation pairs : Luca / Alyona - Play your English self
 
 ## ?? DILR
 Analyses 6 !! ?wtf
@@ -71,11 +71,8 @@ Dossier réflexif
 Dossier réflexif
 
 ## 05-06/01 CMEL
-Rendre travail
+Préparation séance de 3h
 
 ## 10/01 BACK
 Finir site Virginie
-
-## 10/01 CMEL
-Préparation séance de 3h
 
