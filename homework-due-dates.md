@@ -59,7 +59,9 @@ Analyses 6 !! ?wtf
 teste le groupe 2 "Voyage gourmand en France" (Anderson, Rizal & Neslihan)
 
 ## 10/12 TEL
-Faire les 2 sondages !!
+- Faire les 2 sondages !!
+- lire le texte de Sébastian et al., 2020 et faire l'activité sur le Digipad avant le 10/12 - vous trouverez les deux dans cette section du Moodle local : https://cours.univ-grenoble-alpes.fr/course/view.php?id=16593&section=8
+  - Revenez ensuite sur le Digipad et lisez les messages des autres membres du cours.
 
 ## 12/12 CRTT
 Finir et présentation orale :(
@@ -67,7 +69,7 @@ Finir et présentation orale :(
 ## 13/12 DILR
 Dossier réflexif
 
-## 18/12 à 12h TEL
+## 18/12 à 12h (midi) TEL
 Dossier réflexif
 
 ## 05-06/01 CMEL
