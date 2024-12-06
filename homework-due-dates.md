@@ -62,8 +62,7 @@ teste le groupe 2 "Voyage gourmand en France" (Anderson, Rizal & Neslihan)
 Faire les 2 sondages !!
 
 ## 12/12 CRTT
-Finir
-
+Finir et présentation orale :(
 
 ## 13/12 DILR
 Dossier réflexif
