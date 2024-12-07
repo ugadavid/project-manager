@@ -62,8 +62,8 @@ teste le groupe 2 "Voyage gourmand en France" (Anderson, Rizal & Neslihan)
 - ~~Faire les 2 sondages !!~~
 - ~~texte de Sébastian et al., 2020~~
 
-## 10/12 Projet
-Incrément dossier de conception
+## ~~10/12 Projet~~
+~~Incrément dossier de conception~~
 
 ## 12/12 CRTT
 Finir et présentation orale :(
@@ -73,6 +73,9 @@ Dossier réflexif
 
 ## 18/12 à 12h (midi) TEL
 Dossier réflexif
+
+## 20/12 Projet
+Remise du dossier de conception
 
 ## 05-06/01 CMEL
 Préparation séance de 3h (Entre nous ; Cosmopolite)
