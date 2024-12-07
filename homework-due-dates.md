@@ -49,8 +49,8 @@
 ~~rendre accessible l'essentiel du parcours-tâche~~
 
 
-## 7/12	CSP
-évaluation pairs : Luca / Alyona - Play your English self
+## ~~7/12	CSP~~
+~~évaluation pairs : Luca / Alyona - Play your English self~~
 
 ## ?? DILR
 Analyses 6 !! ?wtf
