@@ -52,8 +52,8 @@
 ## ~~7/12	CSP~~
 ~~évaluation pairs : Luca / Alyona - Play your English self~~
 
-## ?? DILR
-Analyses 6 !! ?wtf
+## ~~?? DILR~~
+~~Analyses 6 !! ?wtf~~
 
 ## 10/12 CRTT
 teste le groupe 2 "Voyage gourmand en France" (Anderson, Rizal & Neslihan)
@@ -72,7 +72,7 @@ Dossier réflexif
 Dossier réflexif
 
 ## 05-06/01 CMEL
-Préparation séance de 3h
+Préparation séance de 3h (Entre nous ; Cosmopolite)
 
 ## 10/01 BACK
 Finir site Virginie
