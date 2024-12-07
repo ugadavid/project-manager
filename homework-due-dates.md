@@ -65,6 +65,9 @@ teste le groupe 2 "Voyage gourmand en France" (Anderson, Rizal & Neslihan)
 ## ~~10/12 Projet~~
 ~~Incrément dossier de conception~~
 
+## 11/12 ANG
+Réviser textes
+
 ## 12/12 CRTT
 Finir et présentation orale :(
 
