@@ -62,6 +62,9 @@ teste le groupe 2 "Voyage gourmand en France" (Anderson, Rizal & Neslihan)
 - ~~Faire les 2 sondages !!~~
 - ~~texte de Sébastian et al., 2020~~
 
+## 10/12 Projet
+Incrément dossier de conception
+
 ## 12/12 CRTT
 Finir et présentation orale :(
 
