@@ -55,8 +55,8 @@
 ## ~~?? DILR~~
 ~~Analyses 6 !! ?wtf~~
 
-## 10/12 CRTT
-teste le groupe 2 "Voyage gourmand en France" (Anderson, Rizal & Neslihan)
+## ~~10/12 CRTT~~
+~~teste le groupe 2 "Voyage gourmand en France" (Anderson, Rizal & Neslihan)~~
 
 ## ~~10/12 TEL~~
 - ~~Faire les 2 sondages !!~~
