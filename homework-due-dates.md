@@ -65,14 +65,14 @@
 ## ~~10/12 Projet~~
 ~~Incrément dossier de conception~~
 
-## 11/12 ANG
-Réviser textes
+## ~~11/12 ANG~~
+~~Réviser textes~~
 
-## 12/12 CRTT
-Finir et présentation orale :(
+## ~~12/12 CRTT~~
+~~Finir et présentation orale~~
 
-## 13/12 DILR
-Dossier réflexif
+## ~~13/12 DILR~~
+~~Dossier réflexif~~
 
 ## 18/12 à 12h (midi) TEL
 Dossier réflexif
