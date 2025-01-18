@@ -6,27 +6,27 @@ Ce dépôt centralise tous mes projets GitHub. Vous trouverez ci-dessous une br�
 
 ### 0. RSN (done)
 
-### 1. TMCP
+### 1. TMCP [Technique et méthode de conduite de projet]
 Droggo, projet (**Alena, Paola, Rizal et Anderson**)
 
-### 2 MDM
+### 2 MDM [Méthodologie du mémoire]
 Nissen, 14 avril : rendu du travail de préparation du mémoire (individuel)
 
-### 3. et 8. IPNL
+### 3. et 8. IPNL [Ingénierie pédagogique numérique en langue]
 Nissen, rendu dossier : 20 février, présentation orale : 25 février et travail individuel : semaine 11
 
 DEVOIRS. Quels sont, d'après votre expérience, les avantages et les inconvénients d'une formation fortement médiatisée par le numérique en langue ?
 
-### 4. et 6. PIDO
+### 4. et 6. PIDO [Pratique de l'interculturel et didactique de  l'oral]
 Tzatzou et Galvin : Une ou deux activités de réflexion en classe et animer 2 ateliers aux DU PASS, équipe avec (**Anderson**)
 
-### 7. EQL : 
+### 7. EQL [Enquête par questionnaire en ligne]
 Degache
 - ORAL (en binômes) : présentation d’une analyse de questionnaire existant (10%)
 - ORAL (en binômes) : présentation d’un questionnaire conçu et réalisé (20%)
 - ECRIT (individuel 70%) : Carnet de bord + activités forum (en continu sur Moodle), Rapport, à partir, notamment, du carnet de bord (pour le 11/03/2025)
 
-### 9. AALS : 
+### 9. AALS [Acquisition et apprentissage des langues secondes]
 Alexandrova et Felce, équipe avec (**Anthi**)
 
 
