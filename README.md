@@ -2,7 +2,38 @@
 
 Ce dépôt centralise tous mes projets GitHub. Vous trouverez ci-dessous une brève description de chacun et un lien vers leurs dépôts respectifs.
 
-## Projets
+## Projets 2ème semestre
+
+### 0. RSN (done)
+
+### 1. TMCP
+Droggo, projet (**Alena, Paola, Rizal et Anderson**)
+
+### 2 MDM
+Nissen, 14 avril : rendu du travail de préparation du mémoire (individuel)
+
+### 3. et 8. IPNL
+Nissen, rendu dossier : 20 février, présentation orale : 25 février et travail individuel : semaine 11
+
+DEVOIRS. Quels sont, d'après votre expérience, les avantages et les inconvénients d'une formation fortement médiatisée par le numérique en langue ?
+
+### 4. et 6. PIDO
+Tzatzou et Galvin : Une ou deux activités de réflexion en classe et animer 2 ateliers aux DU PASS, équipe avec (**Anderson**)
+
+### 7. EQL : 
+Degache
+- ORAL (en binômes) : présentation d’une analyse de questionnaire existant (10%)
+- ORAL (en binômes) : présentation d’un questionnaire conçu et réalisé (20%)
+- ECRIT (individuel 70%) : Carnet de bord + activités forum (en continu sur Moodle), Rapport, à partir, notamment, du carnet de bord (pour le 11/03/2025)
+
+### 9. AALS : 
+Alexandrova et Felce, équipe avec (**Anthi**)
+
+
+
+
+
+## Projets 1er semestre
 
 ### 1. project-manager
 
